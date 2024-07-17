@@ -30,6 +30,10 @@ background-image: url(image\ copy.png);
 background-size: cover;
 }
 
+.box:hover{
+    cursor: pointer;
+}
+
 .game{
     height: 60vmin;
     width: 60vmin;
